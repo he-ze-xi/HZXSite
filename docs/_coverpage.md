@@ -4,7 +4,7 @@
 
 >  分享技术，热爱技术 
 
-- 指尖有改变世界的力量 
+- 当你穿过了暴风雨之后，你就不再是原来的那个人了
 
 [Get Started](README.md)
 [GitHub](https://github.com/he-ze-xi)
