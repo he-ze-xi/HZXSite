@@ -19,6 +19,7 @@
      * [设计模式笔记](/Study/CSharp/设计模式学习笔记.md)
    * 实用
      * [实用网站合集](/Study/实用/实用网站合集.md)
+     * [Cursor和AI相关](/Study/实用/Cursor和AI相关.md)
    * 生活
      * [健身计划](/Study/生活/健身计划.md)
      * [计划清单](/Study/生活/计划清单.md)
